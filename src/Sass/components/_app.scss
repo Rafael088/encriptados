@@ -19,8 +19,13 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
+            justify-content: space-around;
             color: aliceblue;
+            input{
+                width: 20%;
+                height: 5%;
+                text-align: center;
+            }
         }
         .cripto01{
             width: 60%;
