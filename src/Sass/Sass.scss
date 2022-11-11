@@ -1,0 +1,12 @@
+// ui settings
+@import './base/settings';
+@import './base/mixinsfunc';
+//components
+@import './components/app';
+@import './components/navBar';
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+//screens
